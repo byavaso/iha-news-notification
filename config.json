@@ -1,0 +1,10 @@
+{
+  "rssUrl": "http://abonerss.iha.com.tr/xml/standartrss?UserCode=19&UserName=yenisoke&UserPassword=rss9777&tip=1&UstKategori=0&Kategori=0&Sehir=0&wp=0&tagp=0",
+  "checkIntervalMs": 60000,
+  "filters": {
+    "cities": ["AYDIN"],
+    "categoryRules": [
+      { "ustKategori": "ULUSAL HABER", "kategori": "HABERDE İNSAN" }
+    ]
+  }
+}
